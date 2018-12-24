@@ -4,6 +4,7 @@ sudo apt-get install ttf-wqy-zenhei ttf-mscorefonts-installer fonts-moe-standard
 sudo apt-get install can-utils
 sudo pip install python-can
 sudo apt-get install python-pip
+bash <(curl -s https://thonny.org/installer-for-linux)
 
 #-------------------------------INSTALL opencv4---------------------------------------------------
 #  https://www.pyimagesearch.com/2018/09/26/install-opencv-4-on-your-raspberry-pi/
